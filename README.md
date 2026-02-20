@@ -89,9 +89,10 @@ The color palette was selected to closely match the original site.
 - Interactive features from the original website were intentionally omitted due to constraints  
 - The layout aims to be visually accurate on desktop screens
 
+<img width="2880" height="3036" alt="row-1-column-1" src="https://github.com/user-attachments/assets/fd4e75ad-bbdb-4ee5-ab07-9bcbc42be238" />
+<img width="2880" height="3035" alt="row-2-column-1" src="https://github.com/user-attachments/assets/f1b27c1c-1f47-46f6-8358-26bff8ada98c" />
+<img width="2880" height="3036" alt="row-3-column-1" src="https://github.com/user-attachments/assets/f4be79d3-0a63-4feb-bce7-577b894865cf" />
+<img width="2880" height="3036" alt="row-4-column-1" src="https://github.com/user-attachments/assets/b0342dd4-b925-45b5-b2fa-335b142ebfac" />
+<img width="2880" height="3035" alt="row-5-column-1" src="https://github.com/user-attachments/assets/c8c2a7b4-6bb2-4042-a31c-a3a2313ad875" />
+<img width="2880" height="3036" alt="row-6-column-1" src="https://github.com/user-attachments/assets/a5f1c462-7f10-4750-9eee-a1d605813fc3" />
 
-<img width="2843" height="1434" alt="image" src="https://github.com/user-attachments/assets/4d1b74af-e783-47d2-bcb2-5784ce62a0bb" />
-<img width="2846" height="1445" alt="image" src="https://github.com/user-attachments/assets/c8407217-79a4-4152-8cbe-a724b08a2bc3" />
-<img width="2847" height="1448" alt="image" src="https://github.com/user-attachments/assets/28b3ad5f-f5dc-4b0f-84e4-f3c275f3d0dc" />
-<img width="2847" height="1448" alt="image" src="https://github.com/user-attachments/assets/95ebb052-e967-475a-bd24-18ad74e2ffe1" />
-<img width="2846" height="1444" alt="image" src="https://github.com/user-attachments/assets/4e44434a-81d7-4cd8-bfcc-abd396a52bae" />
