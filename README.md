@@ -1,6 +1,6 @@
 This project is a desktop-only front-end recreation of the Mintlify landing page.
 
-The objective was to closely replicate the original website’s layout, typography, colors, spacing, and visual structure while strictly following the assignment constraints.
+The objective was to closely replicate the original website’s layout, typography, colors, spacing, and visual structure.
 
 ---
 
